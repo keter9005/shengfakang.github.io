@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["contact"],{"0648":function(t,n,c){"use strict";c.r(n);var a=function(){var t=this,n=t.$createElement,c=t._self._c||n;return c("div",{staticClass:"contact"},[t._v(" 微信号:l179975271 ")])},e=[],s={data:function(){return{}}},u=s,i=(c("520d"),c("5511")),o=Object(i["a"])(u,a,e,!1,null,"7af55132",null);n["default"]=o.exports},"520d":function(t,n,c){"use strict";var a=c("cd88"),e=c.n(a);e.a},cd88:function(t,n,c){}}]);
-//# sourceMappingURL=contact.7e78061e.js.map
